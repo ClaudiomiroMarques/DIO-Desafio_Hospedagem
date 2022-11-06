@@ -19,9 +19,7 @@ public class Program
   {
     int n = int.Parse(Console.ReadLine());
     int[] num = new int[n];
-
     // TODO: Crie as outras condições necessárias para a resolução do desafio:
-
     for (int i = 0; i < n; i++)
     {
       num[i] = int.Parse(Console.ReadLine());
