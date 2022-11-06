@@ -1,5 +1,7 @@
 Desafios intermediarios - C# - DIO - Pottencial
-Desafio
+
+Teste 1 - 
+
 Dado um array nums de tamanho n, retorne o elemento majoritário, isto é, o elemento que aparece o maior número de vezes no seu array.
 Entrada
 A primeira linha da entrada deverá ser o número referente ao tamanho do seu array. As demais linhas nums serão os valores da sua array.
@@ -55,7 +57,8 @@ public class Program
 
 
 
-__________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Teste de Código 2 - 
 
 A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
 
@@ -121,10 +124,11 @@ class minhaClasse {
 
 
 
-___________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+Teste 3 -
 
- corrida de tartarugas é um esporte que cresceu muito nos últimos anos, fazendo com que vários competidores se dediquem a capturar tartarugas rápidas, e treina-las para faturar milhões em corridas pelo mundo. Porém a tarefa de capturar tartarugas não é uma tarefa muito fácil, pois quase todos esses répteis são bem lentos. Cada tartaruga é classificada em um nível dependendo de sua velocidade:
+ Corrida de tartarugas é um esporte que cresceu muito nos últimos anos, fazendo com que vários competidores se dediquem a capturar tartarugas rápidas, e treina-las para faturar milhões em corridas pelo mundo. Porém a tarefa de capturar tartarugas não é uma tarefa muito fácil, pois quase todos esses répteis são bem lentos. Cada tartaruga é classificada em um nível dependendo de sua velocidade:
 
 
 Nível 1: Se a velocidade é menor que 10 cm/h .
